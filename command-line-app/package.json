@@ -1,0 +1,22 @@
+{
+  "name": "command-line-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app\\library.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/framky007/Andela-BootCamp-2.git"
+  },
+  "author": "Ajaps Franklin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/framky007/Andela-BootCamp-2/issues"
+  },
+  "homepage": "https://github.com/framky007/Andela-BootCamp-2#readme"
+}
