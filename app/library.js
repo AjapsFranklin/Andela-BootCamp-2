@@ -49,5 +49,5 @@ function reverseString(myString){
 
 module.exports = {
     words : words,
-    //reverseString : reverseString
+    reverseString : reverseString
 }
