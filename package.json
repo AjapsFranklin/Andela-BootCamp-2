@@ -1,0 +1,22 @@
+{
+  "name": "andela-bootcamp-2",
+  "version": "1.0.0",
+  "description": "Day 2 of BootCamp",
+  "main": "App\\library.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test\\test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/framky007/Andela-BootCamp-2.git"
+  },
+  "author": "Ajaps Franklin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/framky007/Andela-BootCamp-2/issues"
+  },
+  "homepage": "https://github.com/framky007/Andela-BootCamp-2#readme"
+}
