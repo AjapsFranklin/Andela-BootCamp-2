@@ -30,6 +30,23 @@ function words(mySentence){
 
 
 
+//FUNCTION FOR REVERSE STRING
+function reverseString(myString){
+    if(typeof(myString) != "string")
+        return "invalid input"
+    if(!(myString >="A" & myString<="z"))
+        return null
+        
+    var finalString = []
+    finalString = myString.split("")
+    finalString = finalString.reverse()
+    finalString = finalString.join("")
+
+    if(finalString == myString)
+        return true
+    return finalString
+}
+
 module.exports = {
     words : words,
     //reverseString : reverseString
