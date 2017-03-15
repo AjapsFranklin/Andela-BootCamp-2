@@ -1,7 +1,6 @@
 (function() {
 
     var myApp = require('../app/library.js');
-    //var myApp = require('../app/library.js');
 
 
 describe("words()", function() {
@@ -71,7 +70,6 @@ describe("words()", function() {
 });
 
 
-//TEST SUITES FOR REVERSE STRING 
 
 describe("Produce the reverse order of a word: ", function() {
   describe("Case for en empty string", function() {
