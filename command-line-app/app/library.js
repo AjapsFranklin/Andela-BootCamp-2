@@ -39,6 +39,3 @@ function loadGitHubProfile(myName) {
 
 
 
-
-//var customerName = prompt("Please enter your Username to see a list of your Repo");
-//loadGitHubProfile("framky007");
