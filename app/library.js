@@ -24,7 +24,7 @@ function words(mySentence){
             resultA[myString[i]]=hold+1
     }
 
-//var finalResult = JSON.stringify(resultA)
+
     return JSON.stringify(resultA)
 }
 
