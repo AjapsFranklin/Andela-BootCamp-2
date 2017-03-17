@@ -1,11 +1,7 @@
 
 var rl = require('readline');
  
-var prompts = rl.createInterface(process.stdin, process.stdout);
-prompts.question("Please enter your Username to see a list of your Repo", 
-                  function(myName){
-
-
+var ase enter your Username to see a list of l
 function loadGitHubProfile(myName) {
 
 	var webRequest = require("https");
@@ -32,10 +28,3 @@ function loadGitHubProfile(myName) {
     
 	});
 }
- 
- process.exit(); 
-});
-
-
-
-
